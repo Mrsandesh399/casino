@@ -22,7 +22,7 @@ export default function Footer() {
     <AppBar position="relative" className={classes.appBar}>
       <Toolbar>
         <Typography variant="body2" color="inherit">
-          Copyright © Slot Machine 2021. Karafizi Arthur
+          Copyright © Casino 2022. Sandesh Umathe
         </Typography>
       </Toolbar>
     </AppBar>
